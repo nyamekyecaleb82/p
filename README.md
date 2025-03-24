@@ -14,7 +14,7 @@
 
   This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/Caan-portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://nyamekyecaleb82.github.io/p/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
