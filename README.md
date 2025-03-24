@@ -2,8 +2,8 @@
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/TA-wiah/caan-portfolio)
   ![GitHub stars](https://img.shields.io/github/stars/TA-wiah/caan-portfolio?style=social)
-  ![Twitter Follow](https://img.shields.io/twitter/follow/jeffreytottimeh?style=social)](https://twitter.com/intent/follow?screen_name=jeffreytottimeh)
- ![Instagram Follow](https://img.shields.io/Instagram/follow/junior_billyhills_?style=social)](https://instagram.com/intent/follow?screen_name=junior_billyhills)
+  ![Twitter Follow](https://img.shields.io/twitter/follow/jeffreytottimeh?style=social)
+ ![Instagram Follow](https://img.shields.io/Instagram/follow/junior_billyhills_?style=social)
 
   <br />
   <br />
