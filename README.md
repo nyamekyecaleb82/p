@@ -8,8 +8,7 @@
   <br />
   <br />
   
-  <img src="assets/CAANSTUDIO-01.ico" />
-  ![CaanPortfolio Desktop Icon](./assets/image.png "Desktop Demo")
+![CaanPortfolio Desktop Demo](./assets/image.png "Desktop Demo")
 
   <h2 align="center">Caan - Personal portfolio</h2>
 
@@ -23,7 +22,7 @@
 
 ### Demo Screeshots
 
-![CaanPortfolio Desktop Demo](./assets/image.png "Desktop Demo")
+![CaanPortfolio Desktop Demo](./image.png "Desktop Demo")
 
 
 ### Run Locally
