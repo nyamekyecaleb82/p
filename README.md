@@ -8,7 +8,8 @@
   <br />
   <br />
   
-  <img src="./assets/CAANSTUDIO-01.ico" />
+  <img src="assets/CAANSTUDIO-01.ico" />
+  ![CaanPortfolio Desktop Icon](./assets/CAANSTUDIO-01.ico "Desktop Demo")
 
   <h2 align="center">Caan - Personal portfolio</h2>
 
