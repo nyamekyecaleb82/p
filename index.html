@@ -770,8 +770,9 @@
           function sendMessage() {
             let message = document.getElementById("message").value;
             let phone = "23359322151"; // WhatsApp number
+            let phone = "233547838433"; // WhatsApp number
             let whatsappURL = "https://wa.me/" + phone + "?text=" + encodeURIComponent(message);
-            window.location.href = whatsappURL;
+            window.open(whatsappURL, '_blank'); // Opens the URL in a new tab (works on both desktop and mobile)
           }
         </script>
         <div class="form-wrapper">
