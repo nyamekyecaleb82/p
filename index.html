@@ -264,7 +264,7 @@
           <div class="btn-group">
             <button class="btn btn-secondary" href="#contact" >Hire me</button>
 
-            <a href="./assets/resume.pdf" download="resume.pdf" class="btn btn-primary">Download CV</a>
+            <a href="./assets/resume.pdf" download="resume.pdf" class="btn btn-primary" />Download CV</a>
           </div>
 
         </div>
@@ -285,12 +285,11 @@
 
           <p class="section-subtitle">My skills</p>
 
-          <h2 class="h3 section-title">What My Designs, Database analysis Skills Includes?</h2>
+          <h2 class="h3 section-title">I combine creative design mastery with analytical precision, crafting visually compelling graphics while leveraging data insights for strategic decision-making.</h2>
 
           <p class="section-text">
-            I create simple, intuitive and well designed graphic and photos with attractive user interface that helps customers 
-            identify you to be unique and get things done with less effort and also manage and create a simple and a meaningful database for companies
-            with those technologies.
+            I create simple, intuitive, and well-designed graphics and photos with an attractive user interface that helps customers recognize your uniqueness and achieve their goals effortlessly. 
+            Additionally, I design and manage meaningful databases for companies, ensuring efficiency and clarity with the latest technologies.
           </p>
 
           <div class="skills-toggle" data-toggle-box>
@@ -484,10 +483,12 @@
 
               <p class="section-subtitle">My Works</p>
 
-              <h2 class="h3 section-title">Dive into my creations – You will be inspired and amazed</h2>
+              <h2 class="h3 section-title">Dive into my creations—you’ll be inspired and amazed by the perfect blend of creativity and innovation!</h2>
 
               <p class="section-text">
-                We create and design high-quality visuals, photos, and graphics that are built to last. Our designs are well-crafted, clean, user-friendly, and elegantly timeless.
+                We create high-quality visuals, photos, and graphics designed to stand the test of time. 
+                Our work is clean, well-crafted, user-friendly, and elegantly timeless—crafted with precision and creativity to elevate your brand. 
+                From striking visuals to intuitive designs, we bring ideas to life, ensuring every detail speaks volumes and leaves a lasting impact
               </p>
 
             </div>
@@ -668,7 +669,7 @@
                 <h3 class="h4 contact-item-title">Address:</h3>
 
                 <address class="contact-info">
-                  Ghana, Kumasi-Asokore
+                  Ghana, Asokore Mampong
                 </address>
               </div>
 
@@ -758,11 +759,30 @@
 
         <form action="" class="contact-form">
         <iframe class="map-embed"
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3972.5484231678643!2d-1.6251006841224624!3d6.666607095305929!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfdb96af4e4d9a19%3A0x57656bf15da69c1e!2sKumasi%20Central%20Market%2C%20Kumasi!5e0!3m2!1sen!2sgh!4v1600000000000!5m2!1sen!2sgh"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3972.235009125124!2d-1.5829519242761057!3d6.722099018673353!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfdb956b1a7fd3ef%3A0x76bfa8e26c034f36!2sAsokore%20Mampong%2C%20Kumasi!5e0!3m2!1sen!2sgh!4v1711425897894!5m2!1sen!2sgh" 
           allowfullscreen="" 
-          loading="lazy">
+          loading="lazy" 
+          referrerpolicy="no-referrer-when-downgrade">
         </iframe>
 
+
+        <script>
+          function sendMessage() {
+            let message = document.getElementById("message").value;
+            let phone = "23359322151"; // WhatsApp number
+            let whatsappURL = "https://wa.me/" + phone + "?text=" + encodeURIComponent(message);
+            window.location.href = whatsappURL;
+          }
+        </script>
+        <div class="form-wrapper">
+          <label for="message" class="form-label">Get In your work done</label>
+            
+          <div class="input-wrapper">
+            <textarea name="message" id="message" placeholder="Type your message here to reach has on whatsapp" required class="input-field"></textarea>
+              <ion-icon name="chatbubbles"></ion-icon> 
+          </div>
+        </div>
+          <button type="submit" class="btn btn-primary" onclick="sendMessage()">Send</button>-->
          <!--  <div class="form-wrapper">
 
             <label for="name" class="form-label">Name</label>
@@ -834,7 +854,7 @@
 <style>
   .map-embed {
       width: 100%;
-      height: 570px;
+      height: 370px;
       border: 0;
     }
 </style>
